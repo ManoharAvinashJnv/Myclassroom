@@ -1,60 +1,26 @@
-# 🎓 Myclass Room
+# Myclass Room
 
-A Dedicated Space for Our Classmates ❤️
+A dedicated space for classmates of Jawahar Navodaya Vidyalaya to preserve shared memories and celebrate their journey.
 
-Myclass Room is a special project dedicated to all my classmates of Jawahar Navodaya Vidyalaya. It is a digital space created to bring our entire class together, preserve our school memories, and keep our batch connected.
+## Project
 
----
+This React + Vite starter includes a landing page, an illustrated memory tree, profile routing, shared layout components, and utility modules. Student records and media are intentionally empty placeholders: add them only when you have permission to publish them.
 
-## 🏫 About the Project
+## Getting started
 
-This project is dedicated to the students of Jawahar Navodaya Vidyalaya, covering the academic journey of the 2020–2027 batch.
+Requirements: Node.js 20 or newer.
 
-It includes both boys and girls of Class 12, celebrating our shared experiences, friendships, achievements, and memories.
+```bash
+npm install
+npm run dev
+```
 
-## 📚 Project Details
+Create a production build with `npm run build`; preview it with `npm run preview`.
 
-| Information | Details |
-| --- | --- |
-| Project Name | Myclass Room |
-| Institution | Jawahar Navodaya Vidyalaya |
-| Batch | 2020–2027 |
-| Current Class | Class 12 |
-| Students | Boys & Girls |
-| Project Type | Classmate Information & Memories |
-| Dedicated To | All My Classmates |
+## Configuration
 
-## ✨ Project Goals
+Copy `.env.example` to `.env` if you need to configure local environment values. The app can be built without environment variables.
 
-- 👨‍🎓 Maintain a directory of our classmates.
-- 👩‍🎓 Include both boys and girls.
-- 📖 Preserve our school memories.
-- 🤝 Stay connected with our classmates.
-- 🏆 Celebrate achievements and milestones.
-- ❤️ Create a digital identity for our batch.
+## Privacy
 
-## 🔐 Privacy & Respect
-
-This project respects everyone's privacy.
-
-- Personal information should only be published with the student's consent.
-- Contact details and private information must not be shared publicly without permission.
-- Students should have control over their personal profiles and information.
-
-## 💙 A Dedication
-
-> School life is not just about classrooms, books, and examinations. It's about friendships, unforgettable moments, and people who become a part of our journey.
->
-> This project is dedicated to every classmate who made this journey special.
-
-**Once a Navodayan, Always a Navodayan! ❤️**
-
----
-
-## 👨‍💻 Created With Love
-
-- **Project:** Myclass Room
-- **Batch:** 2020–2027
-- **Institution:** Jawahar Navodaya Vidyalaya
-
-**One Batch. One Journey. Countless Memories. ❤️**
+Personal information, photographs, and student profiles should only be published with the student's consent. Do not add private contact details.
